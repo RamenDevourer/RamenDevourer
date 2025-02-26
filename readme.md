@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/priyanshu-burde)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/RamenDevourer)  
-<!-- [![Portfolio](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=vercel)](https://medcap.vercel.app/)   -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/priyanshuburdeofficial)  
+<!-- [![Portfolio](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=vercel)](https://medcap.vercel.app/)   -->
 
 ---
 
