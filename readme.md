@@ -11,12 +11,12 @@
 
 ---
 
-## <h2>💡 About Me</h2>  
+<!-- ## <h2>💡 About Me</h2>  
 💻 <b>Software Developer passionate about full-stack development & AI-driven applications</b>  
 🔹 Creating <b>scalable & high-performance</b> software solutions for real-world problems  
 🏆 <b>AI Hackathon Winner</b> | 💡 <b>Top 15 in DSA Tussle</b>  
 
----
+--- -->
 
 ## <h2>🚀 Tech Stack</h2>  
 <p align="center">
