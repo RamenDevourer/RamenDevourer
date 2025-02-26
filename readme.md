@@ -1,89 +1,65 @@
+<div align="center">
+  
 # 👋 Hi, I'm Priyanshu Burde!  
 🚀 Software Developer | 🖥️ Full-Stack Engineer | 🤖 AI & Computer Vision Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/priyanshu-burde)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/RamenDevourer)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/priyanshuburdeofficial)  
-<!-- [![Portfolio](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=vercel)](https://medcap.vercel.app/)   -->
+📩 **Email:** [priyanshuburdeofficial@gmail.com](mailto:priyanshuburdeofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-burde)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamenDevourer)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/
+priyanshuburdeofficial)  
 
 ---
 
 ## 💡 About Me  
-🔹 **Software Developer** with experience in **full-stack web & mobile development**  
-🔹 Passionate about **building scalable and impactful applications**  
-🔹 Experienced in **AI-driven solutions** involving computer vision and LLM  
-🔹 **AI Hackathon Winner** 🏆 | **Top 15 in DSA Tussle** 💻  
+💻 Software Developer passionate about **full-stack development & AI automation**  
+🔹 Developing **innovative** applications that solve **real-world** problems.
+🏆 **AI Hackathon Winner** | 💡 **Top 15 in DSA Tussle**  
 
 ---
 
-## 🚀 My Tech Stack  
-### 💻 Full-Stack Development  
-- **Frontend**: React.js, Next.js, React Native, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Django, REST APIs  
-- **Databases**: Firebase, MongoDB, Prisma, MySQL  
-- **UI/UX & Responsive Design**: Tailwind CSS, Figma 
+## 🚀 Tech Stack  
 
-### 🛠️ Tools & Platforms  
-- Git, Vercel, Firebase  
+### 💻 **Frontend & Backend**  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
-### 🤖 AI & Computer Vision  
-- **Frameworks**: TensorFlow, OpenCV, YOLOv3, NumPy  
-- **Use Cases**: Image Processing, Chatbots, NLP  
+### 📦 **Databases & ORM**  
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
 
----
+### 🎨 **UI/UX & Responsive Design**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-## 🌟 Featured Projects  
-
-### **MedCap - AI-Powered Healthcare Report Analyzer** 🏥  
-🔹 **Tech Stack**: MERN, JWT, Firebase, Adobe API  
-🔹 **Key Features**:  
-✅ **Extracts Insights from PDF Medical Reports** 
-✅ **AI-Powered Personalized Healthcare Plan Generation**  
-✅ **Secure Authentication & User Dashboard**  
-🌐 [Live Demo](https://medcap.vercel.app/)  
-
-### **FabCycle - Fabric Recycling Platform** ♻️  
-🔹 **Tech Stack**: Express.js, MongoDB, Bootstrap  
-🔹 **Key Features**:  
-✅ **E-commerce platform for upcycled fabrics**  
-✅ **Secure user authentication & order tracking**  
-✅ **Product rating and review system**  
-🌐 [Live Demo](https://fabcycle.vercel.app/)  
-
-### **Muse Memoir - Blog Platform with Analytics** ✍️  
-🔹 **Tech Stack**: MERN, JWT  
-🔹 **Key Features**:  
-✅ **Modern blog platform with secure authentication**  
-✅ **Analytics dashboard to track engagement**  
-✅ **Comment system for community interaction**  
-🌐 [Live Demo](https://muse-memoir.vercel.app/)  
-
----
-
-## 🔨 Currently Working On  
-
-### **Agro AI - Smart Farm Management** 🌾 *(WIP 🚧)*  
-🔹 **Tech Stack**: React Native, Django, OpenCV, TensorFlow, Node.js  
-🔹 **Planned Features**:  
-✅ **Plant Disease Detection using AI models**  
-✅ **Animal Intrusion Detection with YOLOv3**  
-✅ **Agro Chatbot** for real-time farmer assistance  
-🚀 Stay tuned for updates!  
+### 🤖 **AI & Computer Vision**  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv3-000000?style=for-the-badge&logo=yolo&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamenDevourer&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamenDevourer&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect with Me  
-💌 **Email**: [priyanshuburdeofficial@gmail.com](mailto:priyanshuburdeofficial@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/priyanshu-burde](https://linkedin.com/in/priyanshu-burde)  
-🐙 **GitHub**: [github.com/RamenDevourer](https://github.com/RamenDevourer)  
-🏆 **LeetCode**: [leetcode.com/your_leetcode_username](https://leetcode.com/your_leetcode_username)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamenDevourer&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamenDevourer&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 🎯 **"Building Scalable Solutions for Real-World Impact"** 🚀  
+
+</div>
